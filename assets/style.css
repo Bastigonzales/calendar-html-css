@@ -11,25 +11,99 @@
   color: red;
 }
 
+.grayed-out {
+  color: gray;
+}
+
+.table-row {
+  padding: 3px;
+}
+
 .jan-border {
-  background-color: white;
+  background-color: rgb(44, 65, 82);
   border-radius: 5px;
   font-family: sans-serif;
   text-align: center;
+  border-style: outset;
+  border: 10px;
+  display: inline-block;
+  margin-right: 90px;
+  margin-bottom: 10px;
+  padding: 3px;
+  margin-left: 200px;
+  margin-top: 100px;
+
 }
 
 
 
 .feb-border {
-  background-color: white;
+  background-color: rgb(44, 65, 82);
   border-radius: 5px;
   font-family: sans-serif;
   text-align: center;
+  border-style: outset;
+  border: 10px;
+  display: inline-block;
+  padding: 3px;
+  margin-bottom: 10px;
+  margin-right: 90px;
+
+
+}
+
+.space {
+  opacity: 0;
 }
 
 .mar-border {
-  background-color: white;
+  background-color: rgb(44, 65, 82);
   border-radius: 5px;
   font-family: sans-serif;
   text-align: center;
+  border-style: outset;
+  border: 10px;
+  display: inline-block;
+  margin-bottom: 10px;
+  padding: 3px;
+}
+
+.apr-border {
+  background-color: rgb(44, 65, 82);
+  border-radius: 5px;
+  font-family: sans-serif;
+  text-align: center;
+  border-style: outset;
+  border: 10px;
+  display: inline-block;
+  margin-right: 90px;
+  margin-bottom: 10px;
+  padding: 3px;
+  margin-left: 200px;
+  margin-top: 100px;
+}
+
+.may-border {
+  background-color: rgb(44, 65, 82);
+  border-radius: 5px;
+  font-family: sans-serif;
+  text-align: center;
+  border-style: outset;
+  border: 10px;
+  display: inline-block;
+  padding: 3px;
+  margin-bottom: 10px;
+  margin-right: 90px;
+}
+
+.june-border {
+  background-color: rgb(44, 65, 82);
+  border-radius: 5px;
+  font-family: sans-serif;
+  text-align: center;
+  border-style: outset;
+  border: 10px;
+  display: inline-block;
+  margin-bottom: 10px;
+  padding: 3px;
 }
