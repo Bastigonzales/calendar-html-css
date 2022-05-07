@@ -1,0 +1,35 @@
+* {
+  background-color: peachpuff;
+}
+
+.intro-text {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#holiday-text {
+  color: red;
+}
+
+.jan-border {
+  background-color: white;
+  border-radius: 5px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+
+
+.feb-border {
+  background-color: white;
+  border-radius: 5px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.mar-border {
+  background-color: white;
+  border-radius: 5px;
+  font-family: sans-serif;
+  text-align: center;
+}
